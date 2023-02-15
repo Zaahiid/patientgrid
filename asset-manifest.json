@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/patientgrid/static/css/main.5b228551.css",
+    "main.js": "/patientgrid/static/js/main.5a814293.js",
+    "static/js/787.28cb0dcd.chunk.js": "/patientgrid/static/js/787.28cb0dcd.chunk.js",
+    "static/media/Home.png": "/patientgrid/static/media/Home.ba5936899d59aced3113.png",
+    "static/media/doctor-lady.png": "/patientgrid/static/media/doctor-lady.012474aa681d94d35fe2.png",
+    "static/media/reviews.png": "/patientgrid/static/media/reviews.0763220d2c95fcffc065.png",
+    "static/media/stats.png": "/patientgrid/static/media/stats.b75f52ecf902bb10aefe.png",
+    "static/media/doctor.png": "/patientgrid/static/media/doctor.b00ad462acd8b6465e94.png",
+    "static/media/inbox.png": "/patientgrid/static/media/inbox.29a157b6368ea7e56aee.png",
+    "index.html": "/patientgrid/index.html",
+    "main.5b228551.css.map": "/patientgrid/static/css/main.5b228551.css.map",
+    "main.5a814293.js.map": "/patientgrid/static/js/main.5a814293.js.map",
+    "787.28cb0dcd.chunk.js.map": "/patientgrid/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b228551.css",
+    "static/js/main.5a814293.js"
+  ]
+}
